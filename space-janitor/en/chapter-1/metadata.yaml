@@ -1,0 +1,11 @@
+chapter: 1
+title:
+  de: "Bourbon"
+  en: "Bourbon"
+location: "Cockpit of the Janitor"
+new_facts:
+  - "The Janitor is a wooden spaceship."
+  - "Hank likes to drink bourbon during the flight."
+  - "An asteroid has crashed into the ship's hull, causing a leak."
+current_mood: "Panicked, shocked"
+future_hint: "Someone needs to fix the leak from the outside before the air escapes."

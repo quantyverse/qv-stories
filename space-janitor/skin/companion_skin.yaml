@@ -1,0 +1,11 @@
+id: "hank-janitor"
+name: "Hank"
+version: "1.0.0"
+author: Quantyverse
+license: "CC BY 4.0"
+preview: "avatar.png"
+spritesheet:
+  layout: atlas
+  format: texturepacker
+  atlas_json: atlas.json
+

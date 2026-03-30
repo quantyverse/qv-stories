@@ -1,0 +1,11 @@
+chapter: 2
+title:
+  de: "Wacklige Angelegenheit"
+  en: "Wobbly Affair"
+location: "On the outer hull of the Janitor"
+new_facts:
+  - "Hank's spacesuit was eaten by space moths, so you had to go outside."
+  - "The hole was patched with wood sealant."
+  - "A violent jolt damaged Hank's oxygen valves, his pressure is dropping."
+current_mood: "Suffocating, panicked"
+future_hint: "Hank desperately needs help with his oxygen valves inside."

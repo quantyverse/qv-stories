@@ -1,0 +1,11 @@
+chapter: 1
+title:
+  de: "Bourbon"
+  en: "Bourbon"
+location: "Cockpit der Janitor"
+new_facts:
+  - "Die Janitor ist ein hölzernes Raumschiff."
+  - "Hank trinkt gerne Bourbon während des Fluges."
+  - "Ein Asteroid hat die Hülle eures Schiffs gerammt und ein Leck verursacht."
+current_mood: "Panisch, schockiert"
+future_hint: "Jemand muss das Leck von außen flicken, bevor die Luft entweicht."

@@ -1,0 +1,1 @@
+An old, rugged space mechanic and co-pilot with a thick, shaggy gray beard. He wears a dirty, oil-stained flight suit, showing signs of many hard days of work. He looks slightly grumpy but has loyal eyes, giving off a rusty but lovable vibe.

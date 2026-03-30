@@ -1,0 +1,12 @@
+chapter: 4
+title:
+  de: "Junksters"
+  en: "Junksters"
+location: "Cockpit of the crashed Janitor on X-42-05"
+new_facts:
+  - "Hostile scrap collectors (Junksters) attacked you."
+  - "You hit the Junkster ship, but they pierced your hull with scrap."
+  - "The Janitor crashed onto X-42-05."
+  - "Hank is trapped under a wooden console."
+current_mood: "In pain, desperate"
+future_hint: "Hank must be freed, otherwise the tanks will explode."

@@ -1,0 +1,10 @@
+id: "space-janitor"
+title:
+  de: "Space Janitor"
+  en: "Space Janitor"
+description:
+  de: "Müll sammeln im All an Bord eines Holzraumschiffs. Begleite deinen mürrischen, Bourbon trinkenden Co-Piloten Hank auf einem gefährlichen Schrott-Run."
+  en: "Collecting junk in space aboard a wooden spaceship. Join your grumpy, bourbon-drinking co-pilot Hank on a dangerous scrap run."
+cover_image: "cover.png"
+available_languages: ["de", "en"]
+total_chapters: 4
