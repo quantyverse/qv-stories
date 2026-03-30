@@ -942,7 +942,7 @@
   "meta": {
     "app": "qv-companion-creator",
     "version": "1.0",
-    "image": "avatar.png",
+    "image": "atlas.png",
     "format": "RGBA8888",
     "size": {
       "w": 3840,
