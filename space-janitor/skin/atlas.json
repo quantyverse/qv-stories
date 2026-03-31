@@ -863,9 +863,9 @@
   },
   "animations": {
     "idle": [
-      "idle_256_0001.png",
+      "idle_256_0004.png",
       "idle_256_0002.png",
-      "idle_256_0003.png",
+      "idle_256_0004 .png",
       "idle_256_0004.png"
     ],
     "round": [
