@@ -8,4 +8,33 @@ spritesheet:
   layout: atlas
   format: texturepacker
   atlas_json: atlas.json
+  fps: 2
+  loop: false
+  scale: 1.0
+  states:
+    idle:
+      animation_name: idle
+      fps: 7
+      loop: false
+    speak:
+      animation_name: speak
+      fps: 10
+      loop: true
+    thinking:
+      animation_name: thinking
+      fps: 8
+      loop: true
+    thinkinit:
+      animation_name: thinkinit
+      fps: 10
+      loop: false
+    tool:
+      animation_name: tool
+      fps: 1
+      loop: false
+  shadow:
+    offset_x: -8
+    offset_y: -10
+    alpha: 0.35
+    blur: 3
 
