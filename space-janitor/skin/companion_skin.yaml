@@ -14,11 +14,11 @@ spritesheet:
   states:
     idle:
       animation_name: idle
-      fps: 7
+      fps: 2
       loop: false
     speak:
       animation_name: speak
-      fps: 10
+      fps: 8
       loop: true
     thinking:
       animation_name: thinking
@@ -26,7 +26,7 @@ spritesheet:
       loop: true
     thinkinit:
       animation_name: thinkinit
-      fps: 10
+      fps: 9
       loop: false
     tool:
       animation_name: tool
