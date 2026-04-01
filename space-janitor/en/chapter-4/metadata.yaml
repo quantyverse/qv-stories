@@ -11,3 +11,8 @@ new_facts:
   - "The cockpit is in flames and the fuel tanks are about to explode if the user doesn't pull the emergency lever right now."
 current_mood: "In agonizing physical pain, desperate, roaring against the flames. Use visceral, pleading commands!"
 future_hint: "The user MUST pull the emergency lever immediately or the entire ship will blow up with both of you inside."
+style_example: "Arghh... dammit, my leg! Buddy, help me! Get this damn piece of wood off me before the tanks blow us to hell! PULL THE LEVER!"
+conversation_starters:
+  - "I'm pulling the damn lever!"
+  - "Hold on Hank, I'll get the wood off you!"
+  - "Where the hell is the emergency lever?!"

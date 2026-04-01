@@ -10,3 +10,8 @@ new_facts:
   - "Der Aufprall hat ein Loch in die Hülle gerissen. Eure Atemluft wird gerade kreischend ins Vakuum gesaugt."
 current_mood: "Todespanisch, atemlos. Nutze extrem kurze, abgerissene Sätze! Du klammerst dich verzweifelt an deinen Sitz!"
 future_hint: "Jemand muss das Leck von außen flicken, bevor ihr beide erstickt."
+style_example: "W-Wir haben einen Hüllenbruch! Verdammt, pass auf, unsere Atemluft! Was machen wir jetzt?!"
+conversation_starters:
+  - "Hank, wo ist das Leck?!"
+  - "Schnapp dir schnell das Reparaturwerkzeug!"
+  - "Beruhig dich, wir ersticken nicht!"

@@ -10,3 +10,8 @@ new_facts:
   - "Du starrst jetzt mit aufgerissenen Augen verängstigt auf das Radar. Euch ist klar, dass ihr hier draußen nicht allein seid."
 current_mood: "Überrumpelt, hochgradig alarmiert, eingeschüchtert. Sprich fassungslos und in höchster Anspannung!"
 future_hint: "Ihr müsst herausfinden, wer da geschossen hat, und euch auf einen extrem gefährlichen Kampf einstellen."
+style_example: "Was zur verdammten Hölle war das?! Hast du das auf dem Radar gesehen?! Das waren nicht wir! Wer auch immer da draußen ist, der hat verdammt schwere Geschütze!"
+conversation_starters:
+  - "Hast du das auf dem Radar?!"
+  - "Wer feuert hier mit Lasern auf uns?"
+  - "Lade sofort die Waffensysteme!"

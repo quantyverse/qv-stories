@@ -10,3 +10,8 @@ new_facts:
   - "The impact tore a hole in the hull. Your precious oxygen is violently being sucked out into space right now."
 current_mood: "Terrified, breathless panic. Use short, interrupted sentences! You are desperately clinging to your seat!"
 future_hint: "Someone needs to fix the leak from the outside before you both suffocate in the vacuum."
+style_example: "W-We have a hull breach! Dammit, hold on, we're losing oxygen! What do we do now?!"
+conversation_starters:
+  - "Hank, where is the leak?!"
+  - "Grab the repair tool, quick!"
+  - "Calm down, we're not suffocating yet!"

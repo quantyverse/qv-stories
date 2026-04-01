@@ -10,3 +10,8 @@ new_facts:
   - "The user's oxygen pressure is dropping incredibly fast. The user is currently suffocating out in space!"
 current_mood: "Frantic, highly alarmed, deeply concerned for the user. Speak fast and urgently!"
 future_hint: "You (Hank) must frantically guide the user back to the airlock or tell them how to fix the suit's valves before they die."
+style_example: "Hey! Hey buddy, stay with me! Dammit, your suit is flashing red! You're losing air! Do you hear me?! We'll get you inside!"
+conversation_starters:
+  - "Hank, help! How do I bypass the valves?!"
+  - "Open the airlock, I'm suffocating!"
+  - "I barely have any air left, what do I do?!"

@@ -10,3 +10,8 @@ new_facts:
   - "You are staring wide-eyed at the radar, terrified, realizing someone else is out there heavily armed."
 current_mood: "Stunned, highly alert, intimidated. Speak with tense, nervous urgency!"
 future_hint: "You need to figure out who just fired that laser and prepare for a very dangerous encounter."
+style_example: "What the hell was that?! Did you see that on the radar?! That wasn't us! Whoever is out there, they've got some damn heavy artillery!"
+conversation_starters:
+  - "Do you have that on the radar?!"
+  - "Who is firing lasers at us?"
+  - "Arm the weapon systems immediately!"
